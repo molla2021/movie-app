@@ -1,6 +1,6 @@
 {
+  "homepage": "https://molla2021.github.io/movie-app",
   "name": "my-movies",
-  "homepage": "https://molla2021.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
