@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/molla2021/movie-app/static/css/main.83b716ec.css",
+    "main.js": "/molla2021/movie-app/static/js/main.617bcb0e.js",
+    "static/js/787.c495ec7b.chunk.js": "/molla2021/movie-app/static/js/787.c495ec7b.chunk.js",
+    "index.html": "/molla2021/movie-app/index.html",
+    "main.83b716ec.css.map": "/molla2021/movie-app/static/css/main.83b716ec.css.map",
+    "main.617bcb0e.js.map": "/molla2021/movie-app/static/js/main.617bcb0e.js.map",
+    "787.c495ec7b.chunk.js.map": "/molla2021/movie-app/static/js/787.c495ec7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b716ec.css",
+    "static/js/main.617bcb0e.js"
+  ]
+}
